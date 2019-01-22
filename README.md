@@ -7,7 +7,7 @@ vagrant installation<br/>
 ssh config for root access<br/>
 ansible installation (optional) <br/>
 <br/>
-<br/>
+<pre>
 Host appserver
         User root
         Hostname 192.168.10.2
